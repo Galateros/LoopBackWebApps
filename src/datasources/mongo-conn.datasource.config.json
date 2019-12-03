@@ -1,0 +1,11 @@
+{
+  "name": "mongoConn",
+  "connector": "mongodb",
+  "url": "mongodb+srv://Galateros:cambiame@cluster0-40aqp.gcp.mongodb.net/test?retryWrites=true&w=majority",
+  "host": "cluster0-40aqp.gcp.mongodb.net",
+  "port": 27017,
+  "user": "Galateros",
+  "password": "cambiame",
+  "database": "webconn",
+  "useNewUrlParser": true
+}
